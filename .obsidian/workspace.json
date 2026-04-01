@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c5e345581c995afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d14d7528498694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad488a8f1937d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94bb809ef10bb58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b16c76dd0185bbf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0938a7d97a8c594b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23451cc1988236f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68f29c8ff5987c40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6648c0a205b7b8ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a5f14962687055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55513acb0f43bbe0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/_Project Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _Project Template"
+            }
+          },
+          {
+            "id": "21f3b7cda8e707bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00 - Dashboard"
+            }
+          },
+          {
+            "id": "e482a5c4595eea62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "973ce6d746304a21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a70fb730b11dbd98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Dashboard.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00 - Dashboard"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8ad488a8f1937d80",
+  "lastOpenFiles": [
+    "README.md",
+    "Systems Overview.md",
+    "review_report.md",
+    "Inbox/Givaens Pro Agent Trainer.md",
+    "Templates/_Idea Template.md",
+    "Templates/_Log Template.md",
+    "00 - Dashboard.md.tmp.18020.1775014298232",
+    "Inbox/Notes on custom gpts i made for cisco.md",
+    "Inbox/Givaens Clarity Coach.md",
+    "Untitled.base",
+    "00 - Dashboard.md",
+    "ai-zooted-knowledge-250127_1324.pdf",
+    "CLAUDE.md",
+    "GG_Build_System.md",
+    "Logs/Log — 2025-07 — Housing Search.md",
+    "Logs/Log — 2025-02 — Restructure.md",
+    "Logs/Log — 2024-08 — Brand Audit.md",
+    "Logs/Log — 2025-01 — Studio Era Exit.md",
+    "People/Nonny - Anaglyph + Ghostly Tales.md",
+    "Projects/Chopsticks - 3D Print Business.md",
+    "Reference/Vault Coverage Map — ChatGPT Import.md",
+    "Templates/Belief Template.md",
+    "GG_Mobile_Context.md",
+    "Reference/Vault Coverage Map — ChatGPT Import.md.tmp.18020.1775013546578",
+    "GG_Build_System.md.tmp.18020.1775013507294",
+    "GG_Pricing_Offers.md.tmp.18020.1775013462528",
+    "Logs/Log — 2025-12 — Career Research.md",
+    "Logs/Log — 2025-12 — Career Research.md.tmp.18020.1775013443050",
+    "Logs/Log — 2026-02 — Resume + Interview Prep.md",
+    "Logs/Log — 2026-02 — Resume + Interview Prep.md.tmp.18020.1775013428059",
+    "Context/Operator Profile.md",
+    "Logs/Log — 2026-01 — Job Negotiation (811 Texas).md",
+    "Logs/Log — 2026-01 — Job Negotiation (811 Texas).md.tmp.18020.1775013411790",
+    "Beliefs/Faith - Core Convictions.md.tmp.18020.1775013379882",
+    "Projects/Urban Management - SDSS.md",
+    "Projects/Urban Management - Hemet.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
